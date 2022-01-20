@@ -3,8 +3,10 @@
 Here you can navigate to all of my current and past projects!
 
 ---
-
 ## Current Projects
+---
+
+## Projects On Hold
 - [MickeyDees Minecraft 1.17.1 Mod](https://joystick299.github.io/MickeyDees/)
 
 ---
