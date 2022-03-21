@@ -4,7 +4,8 @@ Here you can navigate to all of my current and past projects!
 
 ---
 ## Current Projects
-[Red40 Unreal Engine Game](https://joystick299.github.io/Red40/)
+- [Red40 Unreal Engine Game](https://joystick299.github.io/Red40/)
+
 ---
 
 ## Projects On Hold
